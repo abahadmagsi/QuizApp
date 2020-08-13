@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.wrapper{
+    background-color: teal;
+    height: 500px;
+    width: 600px;
+    margin: 0px auto;
+}
+.wrapper .header{
+    background-color: thistle;
+    height: 60px;
+    width: 100%;
+}
+.wrapper .question{
+    background-color: tomato;
+    margin: 0px auto;
+}
+.wrapper ul li{
+    background-color: blueviolet;
+    list-style: none;
+    padding: 20px 10px;
+    margin: 5px;
+}
+
+.wrapper button{
+    width: 300px;
+    height: 40px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
